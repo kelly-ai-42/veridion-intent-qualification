@@ -1,0 +1,27 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "380": "YES | The company produces wine-based alcoholic beverages in France.",
+    "381": "YES | The company manufactures prepared African dishes and beverages in France.",
+    "382": "YES | The company is a French food manufacturer specializing in fruit and vegetable processing.",
+    "383": "YES | The company operates food processing and beverage production initiatives in France.",
+    "384": "YES | The company manufactures natural, organic ginger shots and beverage products in France.",
+    "385": "YES | The company is a French wine producer and beverage manufacturer.",
+    "386": "YES | The company manufactures food and beverage products in France.",
+    "387": "YES | The company produces wines and spirits in France.",
+    "388": "YES | The company manufactures artisanal sparkling beverages in France.",
+    "389": "YES | The company produces soft drinks and regional beverages in France.",
+    "390": "YES | The company manufactures artisanal fermented beverages, such as kombucha, in France.",
+    "391": "YES | The company processes and manufactures fruit products in France.",
+    "392": "YES | The company manufactures preserved and canned food products in France.",
+    "393": "YES | The company manufactures artisanal lemonade, beer, and soft drinks in France.",
+    "394": "YES | The company manufactures meat and charcuterie food products in France.",
+    "395": "YES | The company manufactures maté-based beverages in France.",
+    "396": "YES | The company manufactures organic lemonade beverages in France.",
+    "397": "YES | The company manufactures yerba mate-infused beverages in France.",
+    "398": "YES | The company produces kombucha and fermented tea beverages in France.",
+    "399": "YES | The company is a French wine producer and beverage manufacturer."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "44": "YES | Mangal Money Transfer offers money transfer and foreign exchange services directly to retail and corporate clients via a mobile application.",
+    "45": "NO | SkyHarvest is a software and data analytics provider for agricultural financial institutions rather than a direct provider of banking services.",
+    "46": "YES | Aircash provides digital wallet and prepaid card services directly to consumers across Europe, competing with traditional banks and demonstrating fast growth with 148 employees.",
+    "47": "NO | EasyKassa provides merchant payment processing platforms and POS infrastructure to businesses rather than direct banking services to customers.",
+    "48": "NO | City Exchange is a traditional foreign exchange and remittance provider operating physical branches rather than a fintech bank competitor.",
+    "49": "NO | FGC Money Transfer operates primarily as a traditional money remittance provider through physical street offices, airports, and hotels.",
+    "50": "NO | Brink's Solutions Nederland provides physical cash transport and cash management services for retailers rather than fintech banking services.",
+    "51": "YES | Salauddin Global Trading offers international money transfer and payment services directly to customers through an online platform.",
+    "52": "YES | ECrowd Invest operates an online crowd lending platform that provides direct investment and lending opportunities for sustainable projects.",
+    "53": "YES | CTC FUND provides blockchain-based interest accounts and collateralized lending services directly to corporate and institutional clients.",
+    "54": "NO | New Payment Innovation supplies payment processing hardware, card terminals, and gateway solutions to merchants rather than direct banking services.",
+    "55": "YES | Phin provides a mobile banking platform directly to consumers that aggregates bank accounts, wallets, and financial management tools.",
+    "56": "NO | Credito21 is a loan and credit product comparison portal rather than a direct issuer of banking or credit services.",
+    "57": "YES | Folio provides digital business accounts, payment cards, and management tools directly to SMEs and self-employed clients, competing with traditional business banking.",
+    "58": "NO | Ariv Pay supplies payment acquiring, POS solutions, and payment processing services to business merchants rather than direct banking services.",
+    "59": "NO | Rantum Capital is a private debt and private equity fund manager providing corporate financing rather than consumer or SME fintech banking services.",
+    "60": "YES | Agility FX provides online foreign exchange execution platforms, virtual IBANs, and cross-border payment services directly to retail and business clients.",
+    "61": "NO | Euro-Rijn Financial Services provides specialized B2B commodity trade financing rather than general fintech banking services.",
+    "62": "YES | European Pay operates a digital payment platform offering digital wallets and contactless payments directly to consumers and small vendors.",
+    "63": "NO | VIP Exchange is a traditional foreign exchange and money transfer business operating physical branches in London.",
+    "96": "NO | Educos is an HRIS and payroll software developer supplying administrative solutions to enterprises.",
+    "183": "NO | Varmalämmitys is a renewable energy equipment provider for biomass power generation and has no relation to fintech or banking.",
+    "284": "NO | Tietoevry is a large IT consulting and software engineering firm that acts as a technology supplier to banks and enterprises."
+  }
+}

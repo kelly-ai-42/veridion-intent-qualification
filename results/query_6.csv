@@ -1,0 +1,44 @@
+,operational_name,website,country,industry,qualified,reason,missing_data
+443,Novartis,novartis.com,ch,Pharmaceutical Preparation Manufacturing,True,Novartis is a Swiss multinational pharmaceutical company that develops and manufactures medicines.,False
+444,Lonza,lonza.com,ch,Pharmaceutical Preparation Manufacturing,True,Lonza is a Swiss contract development and manufacturing organization (CDMO) producing active pharmaceutical ingredients and biopharmaceuticals.,False
+445,Octapharma,octapharma.com,ch,Biological Product (except Diagnostic) Manufacturing,True,Octapharma is a Swiss pharmaceutical company that develops and manufactures human protein-based therapies.,False
+447,Ferring,ferring.com,ch,Pharmaceutical Preparation Manufacturing,True,Ferring is a Swiss biopharmaceutical company that develops and manufactures pharmaceutical products and therapies.,False
+448,Galderma,galderma.com,ch,Pharmaceutical Preparation Manufacturing,True,Galderma is a Swiss pharmaceutical company that develops and manufactures prescription dermatological medicines.,False
+449,Sumitomo Pharma Switzerland,sumitomo-pharma.com,ch,Pharmaceutical Preparation Manufacturing,True,Sumitomo Pharma Switzerland is a pharmaceutical company engaged in the manufacturing and distribution of prescription medicines.,False
+451,Siegfried,siegfried.ch,ch,Medicinal and Botanical Manufacturing,True,Siegfried is a Swiss CDMO engaged in the manufacturing of active pharmaceutical ingredients and finished dosage forms.,False
+453,Acino,acino.swiss,ch,Pharmaceutical Preparation Manufacturing,True,"Acino is a Swiss pharmaceutical company engaged in the development, contract manufacturing, and distribution of prescription medicines.",False
+454,CordenPharma,cordenpharma.com,ch,Pharmaceutical Preparation Manufacturing,True,CordenPharma is a Swiss CDMO that develops and manufactures active pharmaceutical ingredients and finished drug products.,False
+455,PolyPeptide,polypeptide.com,ch,Pharmaceutical Preparation Manufacturing,True,PolyPeptide is a Swiss CDMO that manufactures peptide and oligonucleotide active pharmaceutical ingredients.,False
+456,Idorsia,idorsia.com,ch,Pharmaceutical Preparation Manufacturing,True,"Idorsia is a Swiss biopharmaceutical company focused on discovering, developing, and commercializing small molecule therapeutics.",False
+457,Stallergenes Greer,stallergenesgreer.com,ch,Pharmaceutical Preparation Manufacturing,True,Stallergenes Greer is a Swiss biopharmaceutical company developing and commercializing allergen immunotherapy medicines.,False
+458,IBSA,ibsagroup.com,ch,Pharmaceutical Preparation Manufacturing,True,IBSA is a Swiss pharmaceutical company that produces prescription medicines and therapeutic products.,False
+459,Bachem,bachem.com,ch,Pharmaceutical Preparation Manufacturing,True,"Bachem is a Swiss CDMO that develops and manufactures active pharmaceutical ingredients, peptides, and oligonucleotides.",False
+460,Alcon,aeriepharma.com,ch,Pharmaceutical Preparation Manufacturing,True,Alcon is a global pharmaceutical company focused on ophthalmic medicines and eye care treatments.,False
+461,CARBOGEN AMCIS,carbogen-amcis.com,ch,Pharmaceutical Preparation Manufacturing,True,CARBOGEN AMCIS is a Swiss CDMO providing drug substance custom manufacturing and active pharmaceutical ingredients.,False
+463,OM Pharma,ompharma.com,ch,Biological Product (except Diagnostic) Manufacturing,True,OM Pharma is a Swiss biopharmaceutical company developing and manufacturing bacterial lysate immunomodulators and prescription medicines.,False
+464,MSD,msd.ch,ch,Pharmaceutical Preparation Manufacturing,True,"MSD is a Swiss biopharmaceutical company that develops, manufactures, and commercializes prescription medicines and vaccines.",False
+466,Drugs for Neglected Diseases initiative,dndi.org,ch,Research and Development in Biotechnology (except Nanobiotechnology),True,DNDi is a Swiss non-profit drug developer focused on discovering and developing new treatments for neglected diseases.,False
+467,Debiopharm,debiopharm.com,ch,Pharmaceutical Preparation Manufacturing,True,Debiopharm is a Swiss biopharmaceutical company engaged in the clinical development and manufacturing of prescription medicines.,False
+468,CRISPR Therapeutics,crisprtx.com,ch,Biological Product (except Diagnostic) Manufacturing,True,CRISPR Therapeutics is a biopharmaceutical company engaged in developing gene-based medicines and gene therapies.,False
+470,Helsinn,helsinn.com,ch,Pharmaceutical Preparation Manufacturing,True,"Helsinn is a Swiss pharmaceutical company engaged in researching, developing, and manufacturing oncology drugs and supportive care therapies.",False
+471,TRB Chemedica,trbchemedica.com,ch,Pharmaceutical Preparation Manufacturing,True,TRB Chemedica is a Swiss pharmaceutical company that manufactures active pharmaceutical ingredients and prescription medicines.,False
+472,Celonic,celonic.com,ch,Biological Product (except Diagnostic) Manufacturing,True,Celonic is a Swiss CDMO engaged in the development and contract manufacturing of biologic medicines.,False
+473,ADC Therapeutics,adctherapeutics.com,ch,Pharmaceutical Preparation Manufacturing,True,ADC Therapeutics is a Swiss biopharmaceutical company focused on developing and manufacturing antibody-drug conjugate cancer medicines.,False
+474,Tillotts Pharma,tillotts.com,ch,Pharmaceutical Preparation Manufacturing,True,"Tillotts Pharma is a Swiss pharmaceutical company that develops, manufactures, and markets gastroenterology medicines.",False
+475,KD Pharma Group,kdpharmagroup.com,ch,Pharmaceutical Preparation Manufacturing,True,KD Pharma Group is a Swiss CDMO that manufactures active pharmaceutical ingredients and finished dosage drug forms.,False
+476,A. Menarini,menarini.ch,ch,Pharmaceutical Preparation Manufacturing,True,"A. Menarini is a Swiss pharmaceutical company that develops, manufactures, and distributes prescription medicines.",False
+74,Novative,novative.com,ch,Human Resources Consulting Services,False,"The company provides HR management software and payroll outsourcing services, not pharmaceuticals.",False
+81,HR Campus,hr-campus.ch,ch,Human Resources Consulting Services,False,"The company offers HR consulting and software implementation services, not pharmaceuticals.",False
+88,Foederis,foederis.ch,ch,Software Publishers,False,"The company develops HR and talent management software, not pharmaceuticals.",False
+127,Deepstributed,deepstributed.com,ch,Software Publishers,False,"The company provides a machine learning experimentation platform, not pharmaceuticals.",False
+297,Solarschmiede,solarschmiede.ch,ch,Engineering Services,False,"The company provides technical consulting and planning for photovoltaic solar systems, not pharmaceuticals.",False
+301,Terzic Urban Engineering,terziceng.ch,ch,Engineering Services,False,"The company specializes in urban infrastructure engineering and traffic management, not pharmaceuticals.",False
+304,visusta,visusta.ch,ch,Environmental Consulting Services,False,"The company provides business sustainability and energy efficiency consulting services, not pharmaceuticals.",False
+312,MA-Engineering,ma-engineering.ch,ch,Engineering Services,False,"The company specializes in sustainable construction and electrical planning engineering services, not pharmaceuticals.",False
+374,Greenbatt Technology,greenbatt.ch,ch,Battery Manufacturing,False,"The company develops and manufactures battery technology and cells, not pharmaceuticals.",False
+446,Nestlé Health Science,nestlehealthscience.com,ch,Medicinal and Botanical Manufacturing,False,"The company focuses on medical nutrition, supplements, and nutritional science products, which are excluded.",False
+450,Lonza Capsules & Health Ingredients,capsugel.com,ch,Pharmaceutical Preparation Manufacturing,False,The company supplies empty capsule shells and encapsulation equipment to the pharmaceutical industry rather than developing or manufacturing drug ingredients.,False
+452,PSI CRO,psi-cro.com,ch,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",False,The company is a contract research organization that primarily conducts clinical trials.,False
+462,Teoxane,teoxane.com,ch,Pharmaceutical Preparation Manufacturing,False,"The company manufactures dermal fillers and dermocosmetics for aesthetic medicine, which are aesthetic medical devices.",False
+465,AbelaPharm,abelapharm.ch,ch,Pharmaceutical Preparation Manufacturing,False,"The company focuses on producing and marketing dietary supplements, which are excluded.",False
+469,AliveDx,alivedx.com,ch,In-Vitro Diagnostic Substance Manufacturing,False,"The company develops and manufactures in-vitro diagnostic products and blood bank reagents, which are excluded.",False

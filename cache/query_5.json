@@ -1,0 +1,27 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "24": "YES | Colaska is a US construction contractor specializing in transportation infrastructure and urban development projects.",
+    "25": "NO | BrandSafway primarily supplies scaffolding, work access systems, and shoring equipment for construction projects rather than operating as a core construction contractor.",
+    "26": "YES | Fluor is a major US engineering and construction contractor operating globally across diverse industrial sectors.",
+    "27": "YES | Kiewit is a large US construction and engineering contractor specializing in transportation, power, and industrial infrastructure projects.",
+    "28": "YES | Lemartec is a US general contracting and construction management firm specializing in industrial, aviation, and commercial building projects.",
+    "29": "YES | Clayton Homes is a US homebuilding company engaged in the design and construction of residential homes.",
+    "30": "YES | Brock Group is a US specialty construction contractor providing industrial trade services such as scaffolding, insulation, fireproofing, and painting.",
+    "31": "YES | Quanta Services is a major US infrastructure construction contractor for the electric power, renewable energy, and communications sectors.",
+    "32": "YES | BNBuilders is a US commercial construction contractor delivering facilities for life sciences, education, healthcare, and corporate clients.",
+    "33": "YES | EMCOR Group is a major US specialty construction contractor providing mechanical, electrical, and energy infrastructure services.",
+    "34": "YES | Skanska is a major construction and civil engineering contractor operating extensively across the United States.",
+    "35": "NO | Versar is primarily an engineering, environmental consulting, and project management services firm rather than a construction contractor.",
+    "36": "YES | Bechtel is a major US engineering, procurement, and construction contractor for large-scale infrastructure and industrial projects.",
+    "37": "YES | Halmar International is a US heavy civil construction contractor specializing in transportation infrastructure such as bridges, highways, and mass transit.",
+    "38": "YES | Focus Civil Construction Group is a US general contracting and construction management company.",
+    "39": "YES | Tutor Perini is a major US construction contractor offering civil, commercial building, and specialty construction services.",
+    "40": "NO | Versar is an engineering, environmental, and IT consulting services firm rather than a core construction contractor.",
+    "41": "YES | PulteGroup is a major US residential homebuilding company engaged in the construction and sale of homes.",
+    "42": "NO | Trusted Solutions Group primarily provides labor staffing and materials management support services for construction projects.",
+    "43": "YES | DPR Construction is a major US general contractor specializing in complex commercial, healthcare, and advanced technology building projects."
+  }
+}

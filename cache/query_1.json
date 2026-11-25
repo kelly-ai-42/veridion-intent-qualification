@@ -1,0 +1,33 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "0": "NO | Rompetrol is a fuel and energy company focused on petroleum refining and distributing its own products.",
+    "1": "NO | Unilever is a consumer goods company distributing its own products.",
+    "2": "NO | Rompetrol is an energy company engaged in refining and fuel retail.",
+    "3": "NO | CBRE Romania is a commercial real estate services provider, acting as a landlord broker/advisor rather than a logistics operator.",
+    "4": "NO | TIMAC AGRO is an agricultural company manufacturing and distributing its own plant and animal nutrition products.",
+    "5": "NO | OMV is an oil and gas energy company.",
+    "6": "NO | Compania Națională de Căi Ferate CFR is a railway infrastructure manager.",
+    "7": "NO | Mercedes-Benz Trucks & Buses Romania is a distributor and seller of commercial vehicles.",
+    "8": "NO | Dacia is an automotive manufacturer distributing its own vehicles.",
+    "9": "NO | Fildas Trading is a pharmaceutical wholesaler distributing its own goods.",
+    "10": "NO | Portul Constanta is a port authority managing maritime port infrastructure.",
+    "11": "NO | Bunge Romania is an agricultural commodity wholesaler and processing company.",
+    "12": "NO | Romgaz is a natural gas exploration, production, and distribution energy company.",
+    "13": "NO | METRO România is a wholesale cash-and-carry distributor moving its own inventory to clients.",
+    "14": "NO | Transgaz is a national gas transmission system operator.",
+    "15": "YES | Poșta Română is the national postal operator providing courier, parcel, and postal delivery services to third parties.",
+    "16": "NO | OSCAR is a fuel trading and distribution company.",
+    "17": "NO | Prutul is an agribusiness and vegetable oil producer distributing its own agricultural products.",
+    "18": "NO | Valtec is a distributor selling its own line of industrial lubricants and protective equipment.",
+    "19": "NO | Valbur is a global trade and commodity brokerage firm rather than a third-party logistics provider.",
+    "20": "NO | Brasov Industrial Portfolio is a landlord offering real estate leasing for industrial and logistics facilities.",
+    "21": "NO | STILL is a supplier and lessor of forklifts and intralogistics equipment.",
+    "22": "NO | AQUA CENTER is a manufacturer and exporter of composite pipes and fittings.",
+    "23": "NO | European Drinks is a beverage manufacturer distributing its own product lines.",
+    "65": "NO | Sincron HR is a software company providing human resources management solutions.",
+    "329": "NO | EcoExpert Green Consulting is an ESG and sustainability consulting firm."
+  }
+}

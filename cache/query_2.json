@@ -1,0 +1,27 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "267": "YES | Tata Consultancy Services is a public IT services and software development company with over 600,000 employees.",
+    "268": "NO | Concentrix is primarily a business process outsourcing (BPO) and contact center company, which is excluded by the guidelines.",
+    "269": "YES | Capgemini is a public IT consulting and custom software development services company with over 340,000 employees.",
+    "270": "YES | Wipro is a public IT services and custom software development company with over 230,000 employees.",
+    "271": "YES | DWS Group is a public IT consulting and software services company with over 220,000 employees.",
+    "272": "YES | NTT DATA is a public IT services and software development company with over 190,000 employees.",
+    "273": "NO | Genpact is primarily a business process outsourcing (BPO) provider, which is excluded by the guidelines.",
+    "274": "YES | Fujitsu is a public ICT and software/IT services company with over 120,000 employees.",
+    "275": "NO | Telefónica Venture Builder's main business is venture building and startup incubator support rather than software development.",
+    "276": "YES | CGI is a public IT consulting and software development company with over 90,000 employees.",
+    "277": "YES | Atos is a public IT services and custom software development company with over 90,000 employees.",
+    "278": "YES | EPAM is a public software engineering and digital platform engineering company with over 62,000 employees.",
+    "279": "YES | Leidos is a public IT services and enterprise software solutions provider with over 48,000 employees.",
+    "280": "YES | Booz Allen is a public IT consulting and custom software development company with over 34,000 employees.",
+    "281": "YES | Mphasis is a public IT services and product engineering software company with over 31,000 employees.",
+    "282": "YES | Globant is a public software development and digital transformation company with over 29,000 employees.",
+    "283": "YES | SAIC is a public IT services and enterprise software integration company with over 25,000 employees.",
+    "284": "YES | Tietoevry is a public software development and IT consulting company with over 23,000 employees.",
+    "285": "YES | ASGN is a public IT services and enterprise software solutions company with over 21,000 employees.",
+    "286": "YES | CACI is a public enterprise software development and IT services company with over 20,000 employees."
+  }
+}

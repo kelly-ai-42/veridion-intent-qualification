@@ -1,0 +1,43 @@
+{
+  "models": [
+    "gemini-3.5-flash"
+  ],
+  "answers": {
+    "17": "NO | The company is an agribusiness and vegetable oil producer, not a supplier of cosmetics packaging.",
+    "22": "NO | The company manufactures industrial PVC and composite pipes for construction and water supply, with no connection to cosmetics packaging.",
+    "218": "NO | The company is a sporting goods retailer, not a packaging manufacturer or distributor for cosmetics brands.",
+    "222": "NO | The company is a men's grooming product brand, making it a customer of packaging rather than a supplier to cosmetics brands.",
+    "228": "NO | The company manufactures general office labels and stationery, with no explicit focus on supplying cosmetics packaging materials.",
+    "233": "NO | The company is a beverage manufacturer, not a supplier of packaging for cosmetics.",
+    "237": "NO | The company manufactures and sells candies and dispensers, not cosmetics packaging.",
+    "245": "NO | The company produces rolling papers and smoking accessories, not cosmetics packaging.",
+    "247": "NO | The company provides custom packaging and co-packing services for cosmetic, health, and food sectors.",
+    "248": "YES | The company manufactures glass jars, caps, and custom glass packaging specifically for the cosmetics industry.",
+    "249": "YES | The company provides co-packing and packaging manufacturing solutions across consumer goods, including the personal care market.",
+    "250": "YES | The company manufactures and supplies cosmetic bottles, jars, and packaging materials.",
+    "251": "YES | The company supplies glass and plastic containers, caps, and packaging solutions for the cosmetic and health & beauty industries.",
+    "252": "YES | The company specializes in sustainable glass dropper bottles and beauty packaging for cosmetics brands.",
+    "253": "YES | The company provides custom packaging solutions and components for the color cosmetics, personal care, and beauty industries.",
+    "254": "YES | The company manufactures packaging components such as bottles, tubes, jars, and pumps for the personal care and cosmetics sectors.",
+    "255": "YES | The company designs and manufactures cosmetic packaging including jars, bottles, and tubes for skincare and personal care products.",
+    "256": "YES | The company manufactures cosmetic packaging solutions such as airless pumps and dispenser bottles for skin and personal care products.",
+    "257": "YES | The company manufactures custom cosmetic packaging products including bottles, tubes, jars, and boxes for the beauty industry.",
+    "258": "YES | The company produces cosmetic plastic bottles, tubes, compacts, and jars for the personal care and cosmetics industries.",
+    "259": "YES | The company manufactures custom cosmetic packaging such as lipstick tubes, eyeshadow palettes, and skincare bottles for beauty brands.",
+    "260": "YES | The company designs and produces cosmetic packaging products for the global cosmetic, skincare, and personal care markets.",
+    "261": "YES | The company supplies plastic, glass, and paper packaging solutions targeting the cosmetics and personal care sectors.",
+    "262": "YES | The company produces customized cosmetic packaging products such as bottles, jars, and tubes for the cosmetics industry.",
+    "263": "YES | The company produces and distributes cosmetic packaging and packaging solutions for clients.",
+    "264": "YES | The company manufactures and supplies cosmetic packaging containers, tubes, bottles, and jars for the cosmetics industry.",
+    "265": "YES | The company supplies eco-friendly packing paper and reusable packaging solutions specifically targeting direct-to-consumer brands, including cosmetics.",
+    "266": "YES | The company designs and manufactures eco-friendly cosmetic packaging solutions including bottles, jars, and containers for cosmetics brands.",
+    "284": "NO | The company provides IT consulting and digital engineering services, not physical packaging materials.",
+    "389": "NO | The company is a beverage manufacturer and distributor, not a cosmetics packaging supplier.",
+    "394": "NO | The company processes and packages meat products, with no link to cosmetics packaging.",
+    "395": "NO | The company produces and distributes maté beverages, not cosmetics packaging.",
+    "397": "NO | The company manufactures sparkling beverages, not cosmetics packaging.",
+    "451": "NO | The company is a pharmaceutical CDMO focused on drug active ingredients and medicines, not cosmetics packaging.",
+    "454": "NO | The company is a pharmaceutical contract manufacturer, not a supplier of cosmetics packaging.",
+    "475": "NO | The company is a CDMO for pharmaceuticals and nutraceuticals, not a cosmetics packaging supplier."
+  }
+}

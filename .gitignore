@@ -1,0 +1,6 @@
+# API key - never commit
+.env
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/

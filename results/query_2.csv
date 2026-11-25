@@ -1,0 +1,21 @@
+,operational_name,website,country,industry,qualified,reason,missing_data
+267,Tata Consultancy Services,tcs.com,in,Computer Systems Design Services,True,"Tata Consultancy Services is a public IT services and software development company with over 600,000 employees.",False
+269,Capgemini,capgemini.com,ca,Computer Systems Design Services,True,"Capgemini is a public IT consulting and custom software development services company with over 340,000 employees.",False
+270,Wipro,wipro.com,in,Computer Systems Design Services,True,"Wipro is a public IT services and custom software development company with over 230,000 employees.",False
+271,DWS Group,hcltech.com,au,Computer Systems Design Services,True,"DWS Group is a public IT consulting and software services company with over 220,000 employees.",False
+272,NTT DATA,nttdata.com,jp,Computer Systems Design Services,True,"NTT DATA is a public IT services and software development company with over 190,000 employees.",False
+274,Fujitsu,fujitsu.com,jp,Computer Systems Design Services,True,"Fujitsu is a public ICT and software/IT services company with over 120,000 employees.",False
+276,CGI,cgi.com,ca,Computer Systems Design Services,True,"CGI is a public IT consulting and software development company with over 90,000 employees.",False
+277,Atos,atos.net,fr,Computer Systems Design Services,True,"Atos is a public IT services and custom software development company with over 90,000 employees.",False
+278,EPAM,epam.com,us,Custom Computer Programming Services,True,"EPAM is a public software engineering and digital platform engineering company with over 62,000 employees.",False
+279,Leidos,leidos.com,us,Computer Systems Design Services,True,"Leidos is a public IT services and enterprise software solutions provider with over 48,000 employees.",False
+280,Booz Allen,boozallen.com,us,Computer Systems Design Services,True,"Booz Allen is a public IT consulting and custom software development company with over 34,000 employees.",False
+281,Mphasis,mphasis.com,us,Computer Systems Design Services,True,"Mphasis is a public IT services and product engineering software company with over 31,000 employees.",False
+282,Globant,globant.com,lu,Computer Systems Design Services,True,"Globant is a public software development and digital transformation company with over 29,000 employees.",False
+283,SAIC,saic.com,us,Computer Systems Design Services,True,"SAIC is a public IT services and enterprise software integration company with over 25,000 employees.",False
+284,Tietoevry,tietoevry.com,fi,Computer Systems Design Services,True,"Tietoevry is a public software development and IT consulting company with over 23,000 employees.",False
+285,ASGN,asgn.com,us,Computer Systems Design Services,True,"ASGN is a public IT services and enterprise software solutions company with over 21,000 employees.",False
+286,CACI,caci.com,us,Computer Systems Design Services,True,"CACI is a public enterprise software development and IT services company with over 20,000 employees.",False
+268,Concentrix,concentrix.com,us,Computer Systems Design Services,False,"Concentrix is primarily a business process outsourcing (BPO) and contact center company, which is excluded by the guidelines.",False
+273,Genpact,genpact.com,us,Computer Systems Design Services,False,"Genpact is primarily a business process outsourcing (BPO) provider, which is excluded by the guidelines.",False
+275,Telefónica Venture Builder,telefonica.com,es,Computer Systems Design Services,False,Telefónica Venture Builder's main business is venture building and startup incubator support rather than software development.,False
